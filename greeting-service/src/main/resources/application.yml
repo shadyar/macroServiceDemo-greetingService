@@ -2,7 +2,7 @@ spring:
   application:
     name: greeting-service
 server:
-  port: 8881
+  port: 8082
 eureka:
   client:
     serviceUrl:

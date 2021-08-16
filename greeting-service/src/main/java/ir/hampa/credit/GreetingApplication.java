@@ -1,12 +1,12 @@
-package com.example.demo;
+package ir.hampa.credit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GreetingServiceApplication {
+public class GreetingApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(GreetingServiceApplication.class, args);
+		SpringApplication.run(GreetingApplication.class, args);
 	}
 
 }

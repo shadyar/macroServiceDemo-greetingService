@@ -1,4 +1,4 @@
-package com.example.demo;
+package ir.hampa.credit;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 
